@@ -1,0 +1,5 @@
+<section id="about">
+  <h2>About Me</h2>
+  <img src="VA.jpg" alt="Vinay Abhilash" style="width: 180px; height: 180px; border-radius: 50%; object-fit: cover; border: 4px solid #20232a; margin-bottom: 20px;" />
+  <p>Hello! I'm Vinay Abhilash, currently pursuing my 12th grade studies. I’m passionate about education, creativity, and making a difference through my YouTube content. I aim to inspire, learn, and build something meaningful.</p>
+</section>
